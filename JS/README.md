@@ -1,1 +1,1 @@
-# Estudos desenvolvido com JS - Alura
+# Estudos desenvolvido com JS - Alura 📌
