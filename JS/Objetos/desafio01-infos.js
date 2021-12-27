@@ -9,3 +9,4 @@ const cliente = {
 
 //Acessando o objeto chamado cliente no atributo cpf e mostrando apenas os 3 primeiros números do CPF.
 console.log(cliente.cpf.substring(0,3))
+//
