@@ -15,10 +15,12 @@
 ## Módulo 2 - Linguagens de programação
 
 1. JavaScript
-
 - ✅ Fundamentos
 - ✅ Arrays
 - ✅ Objetos
+
+2. NodeJS
+- ✅ HTTP: Entendendo a web por baixo dos panos
 
 ---
 
