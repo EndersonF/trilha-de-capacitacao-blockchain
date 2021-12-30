@@ -15,7 +15,7 @@
 ## Módulo 2 - Linguagens de programação
 
 1. JavaScript
-- ✅ Fundamentos
+- ✅ Tipos, variáveis e funções
 - ✅ Arrays
 - ✅ Objetos
 
