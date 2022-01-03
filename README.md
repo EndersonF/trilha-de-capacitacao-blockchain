@@ -6,7 +6,9 @@
  <a href="https://github.com/EndersonF" target="_blank"> Autor</a>
 </p>
 
-## **⚠️Este repositório tem a finalidade de registros de atividades desenvolvidas no programa de bolsas - Blockchain⚠️**
+## Objetivo
+
+### **⚠️Este repositório tem a finalidade de registros de atividades desenvolvidas no programa de bolsas - Blockchain⚠️**
 
 # Atividades desenvolvidas até o presente momento
 
