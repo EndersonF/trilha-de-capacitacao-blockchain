@@ -1,3 +1,7 @@
+<div align="center">
+![naruto-modo-sabio-naruto-shippuden](https://user-images.githubusercontent.com/40265254/148495053-074523e6-01d3-4960-ac0e-96e7ab54c22d.gif)
+</div>
+
 <h1 align="center"> 
 <a href= "https://github.com/EndersonF/trilha-de-capacitacao-blockchain">🔗 Trilha de Capacitação Blockchain</a>
 </h1>
