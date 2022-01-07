@@ -1,3 +1,5 @@
+![](https://tenor.com/6LTK.gif)
+
 <h1 align="center"> 
 <a href= "https://github.com/EndersonF/trilha-de-capacitacao-blockchain">🔗 Trilha de Capacitação Blockchain</a>
 </h1>
