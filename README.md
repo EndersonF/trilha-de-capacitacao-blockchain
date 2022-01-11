@@ -3,6 +3,14 @@
 
 <h1 align="center"> 
 <a href= "https://github.com/EndersonF/trilha-de-capacitacao-blockchain">🔗 Trilha de Capacitação Blockchain</a>
+
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+![GitHub repo size](https://img.shields.io/github/repo-size/EndersonF/trilha-de-capacitacao-blockchain)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+
+
 </h1>
 
 <h4 align="center"> 
@@ -48,17 +56,17 @@
 - Criar tabelas usando apenas texto ✔️.
 
 ## Módulo 2 - Linguagens de programação ✅
-### **JavaScript**
-- ✔️ Aprender os conceitos e particularidades do JavaScript;
-- ✔️ Conhecer variáveis, funções e como utilizá-las;
-- ✔️ Saber os tipos de dados suportados;
-- ✔️ Aprender sobre erros e a stacktrace;
-- ✔️ Utilização de listas, laços e objetos.
+### **JavaScript ✅**
+- Aprender os conceitos e particularidades do JavaScript ✔️;
+- Conhecer variáveis, funções e como utilizá-las ✔️;
+- Saber os tipos de dados suportados ✔️;
+- Aprender sobre erros e a stacktrace ✔️;
+- Utilização de listas, laços e objetos ✔️.
 
-### **NodeJS**
+### **NodeJS ✅**
 - Criar uma API REST ✔️;
 - Utilizar MySQL como camada de persistência de dados ✔️;
-- Estruturar o projeto em módulos.
+- Estruturar o projeto em módulos ✔️.
 
 ### **Python**
 - Aprender os conceitos e particularidades do Python;
@@ -74,5 +82,8 @@
 - [Alura](https://cursos.alura.com.br/)
 - [Git](https://githowto.com/pt-BR/)
 - [Trello](https://trello.com/)
+
+## **License**
+#### O projeto presente está sob licença do MIT. Você pode consultar em [LICENSE!](https://github.com/EndersonF/trilha-de-capacitacao-blockchain/blob/main/LICENSE) 
 ---
 ### MADE BY: **Enderson Frazão🤟**
