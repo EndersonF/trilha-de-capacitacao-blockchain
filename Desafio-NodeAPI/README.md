@@ -13,23 +13,24 @@
   <a href="#vulcan_salute-Sobre"><font color="#F0F8FF">Sobre</font></a> &#xa0; | &#xa0; 
   <a href="#hammer_and_wrench-Tecnologias"><font color="#F0F8FF">Tecnologias</font></a> &#xa0; | &#xa0;
   <a href="#warning-Requisitos"><font color="#F0F8FF">Pré-requisitos</font></a> &#xa0; | &#xa0;
+  <a href="#test_tube-Experimentos"><font color="#F0F8FF">Pré-requisitos</font></a> &#xa0; | &#xa0;
   <a href="#memo-Licença"><font color="#F0F8FF">Licença</font></a> &#xa0; | &#xa0;
   <a href="https://github.com/EndersonF"target="_blank"><font color="#F0F8FF">Autor</font></a>
 </p>
 </h1>
 
 ---
-## :vulcan_salute: Sobre 🖖 ##
+## :vulcan_salute: Sobre ##
 ### **Esta API foi desenvolvida para o programa de bolsas - Blockchain. O desafio passado teve a finalidade de criar uma API cuja sua funcionalidade assemelha-se ao Trello ou a um Bloco de Notas.**
 
-## :hammer_and_wrench: Tecnologias 🛠️ ##
+## :hammer_and_wrench: Tecnologias ##
 ### **As seguintes ferramentas foram usadas na construção do projeto:**
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://www.javascript.com/)
 - [MySQL](https://www.mysql.com/)
 - [Sequelize](https://sequelize.org/v7/)
 
-## :warning: Pré-requisitos ⚠️ ###
+## :warning: Pré-requisitos ###
 ### **Antes de começar, você vai precisa ter instalado em sua márquina as seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [MySQL](https://www.mysql.com/downloads/) e [Sequelize](https://sequelize.org/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)**
 ```bash
 # Clone este repositório - No caso irá baixar todos os arquivos do repositório, mas é só escolher a pasta Desafio-NodeAPI
@@ -46,7 +47,7 @@ $ npm run dev start
 
 # O servidor inciará na porta:3003 - acesse <http://localhost:3003/api/nome-da-rota> Você pode consultar uma rota na pasta api - routes - notas-rotas.js
 ```
-## Experimentos realizados 🧪
+## :test_tube: Experimentos
 ## **Criação de projeto**
 1. Nesta etapa você deveria criar a inserção de uma task na base dados.
 * **Request - POST** `http://localhost:3000/api/project`
