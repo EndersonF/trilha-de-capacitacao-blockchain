@@ -13,9 +13,8 @@
   <a href="#vulcan_salute-Sobre"><font color="#F0F8FF">Sobre</font></a> &#xa0; | &#xa0; 
   <a href="#hammer_and_wrench-Tecnologias"><font color="#F0F8FF">Tecnologias</font></a> &#xa0; | &#xa0;
   <a href="#warning-Requisitos"><font color="#F0F8FF">Pré-requisitos</font></a> &#xa0; | &#xa0;
-  <a href="#test_tube-Experimentos"><font color="#F0F8FF">Pré-requisitos</font></a> &#xa0; | &#xa0;
+  <a href="#test_tube-Experimentos"><font color="#F0F8FF">Experimentos</font></a> &#xa0; | &#xa0;
   <a href="#memo-Licença"><font color="#F0F8FF">Licença</font></a> &#xa0; | &#xa0;
-  <a href="https://github.com/EndersonF"target="_blank"><font color="#F0F8FF">Autor</font></a>
 </p>
 </h1>
 
