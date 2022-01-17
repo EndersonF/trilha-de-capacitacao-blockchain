@@ -28,6 +28,7 @@
 - [JavaScript](https://www.javascript.com/)
 - [MySQL](https://www.mysql.com/)
 - [Sequelize](https://sequelize.org/v7/)
+- [Insomnia](https://insomnia.rest/download)
 
 ## :warning: Pré-requisitos ###
 ### **Antes de começar, você vai precisa ter instalado em sua márquina as seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [MySQL](https://www.mysql.com/downloads/) e [Sequelize](https://sequelize.org/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)**
