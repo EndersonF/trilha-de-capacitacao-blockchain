@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "heroeExists",
+        "transactionLabel": "A test heroeExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createHeroe",
+        "transactionLabel": "A test createHeroe transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readHeroe",
+        "transactionLabel": "A test readHeroe transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateHeroe",
+        "transactionLabel": "A test updateHeroe transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteHeroe",
+        "transactionLabel": "A test deleteHeroe transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
